@@ -1,6 +1,6 @@
 # bigdata-capstone
 
-##cluster.ipynb: k-means algorithm for customer profiling.
+## cluster.ipynb: k-means algorithm for customer profiling.
 
 Chrun ANN: Artificial Neural Network model with different sampling methods
 
